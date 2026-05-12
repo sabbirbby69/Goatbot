@@ -5,7 +5,7 @@ module.exports = {
     author: "Ariful Islam Sabbir",
     countDown: 5,
     role: 2,
-    description: "Animated Bot PP & Bio Updater",
+    description: "Animated Bot PP and Bio Updater",
     category: "Admin",
     guide: "{pn} [pp | bio]"
   },
